@@ -6,6 +6,7 @@ Create file
 ```
 touch termux-setup.sh
 ```
+Paste Code
 Set permission
 ```
 chmod +x termux-setup.sh
