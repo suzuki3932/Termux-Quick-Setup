@@ -1,1 +1,2 @@
 # Termux-Quick-Setup
+## Usage
